@@ -10,3 +10,5 @@ def prime?(n)
     true
   end
 end
+
+# I don't understand this I used examples from other users on Git.
